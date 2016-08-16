@@ -1,7 +1,7 @@
 {
 	"name":"Educated",
 	"thumbnail":"educated.png",
-	"screenshot":"educated.png",
+	"screenshot":"educated-screenshot.png",
     "templateType":"standard",
     "tags": { "en": ["kids", "education", "colourful", "nursery", "school", "children"] },
     "pageTypes":["home"],
